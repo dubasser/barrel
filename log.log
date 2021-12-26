@@ -1,0 +1,22 @@
+ERROR:ex:Value Error!
+Traceback (most recent call last):
+  File "C:/Users/typa geniy/Desktop/seed.py", line 9, in <module>
+    n = int(input('Введите натуральное число N '))
+ValueError: invalid literal for int() with base 10: 'a'
+ERROR:ex:Value Error!
+Traceback (most recent call last):
+  File "C:/Users/typa geniy/Desktop/seed.py", line 9, in <module>
+    n = int(input('Введите натуральное число N '))
+ValueError: invalid literal for int() with base 10: 'b'
+ERROR:SEED:Value Error! Число меньше или равно 0
+NoneType: None
+ERROR:SEED:Value Error! Неверный Формат
+Traceback (most recent call last):
+  File "C:/Users/typa geniy/Desktop/seed.py", line 9, in <module>
+    n = int(input('Введите натуральное число N '))
+ValueError: invalid literal for int() with base 10: '0,99'
+ERROR:SEED:Value Error! Неверный Формат
+Traceback (most recent call last):
+  File "C:/Users/typa geniy/Desktop/seed.py", line 9, in <module>
+    n = int(input('Введите натуральное число N '))
+ValueError: invalid literal for int() with base 10: 'A'
